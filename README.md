@@ -14,4 +14,4 @@ side-chain atoms (2000, 2000, 1000, 500, 200, 50, and 0 kJ/mol/nm<sup>2</sup>), 
 100, and kJ/mol/nm<sup>2</sup>), and lipids (1000, 400, 400, 200, 40, and 0 kJ/mol/nm<sup>2</sup>). Van der Waals parameters
 for I<sup>-</sup> were taken from Li et al. Trajectories (only including protein atoms and ions), the python 3.8 Jupyter notebook 
 and its auxiliary files used in the calculations reported in "Structural Insigths into the mechanism of the 
-sodium/iodide symporter (NIS)" by Ravera <ital>et al</ital> 2022.
+sodium/iodide symporter (NIS)" by Ravera <ital>et al.</ital> 2022.
