@@ -7,7 +7,7 @@ was carried out using the cryoEM structure (2 Na<sup>+</sup>/I<sup>-</sup>
 production using the molecular dynamics program <a href=https://www.gromacs.org/>GROMACS</a> with the script generator web-page <a href=https://charmm-gui.org> CHARMM-GUI </a>. 
 The simulation was carried out with GROMACS, version 2020, 
 in conjunction with the <a href=https://onlinelibrary.wiley.com/doi/10.1002/jcc.23354>CharMM36 </a>force field, using a TIP3P water model, Berger-derived DOPC lipids, 
-and ion parameters by <a hrf=https://doi.org/10.1021/jp8001614> Joung and Cheatham 2008 </a>. Van der Waals interactions were cut off at 1 nm, and electrostatics 
+and ion parameters by <a href=https://doi.org/10.1021/jp8001614> Joung and Cheatham 2008 </a>. Van der Waals interactions were cut off at 1 nm, and electrostatics 
 were treated by PME beyond 1 nm. Temperature and pressure was kept at 310.5 K and 1 bar using the V-Rescale 
 thermostat and Parrinello-Rahman barostat, respectively. All bonds were restrained using LINCS, and an integration 
 time step of 2 fs was used. We energy-minimized (steepest descent)the experimental structure using a double-precision version of GROMACS, 
