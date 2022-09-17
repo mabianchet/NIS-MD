@@ -1,5 +1,5 @@
-Molecular simulation of the  Na<sup>+</sup>/I<sup>-</sup> symporter (NIS) in its apo and ions bound forms
-Molecular dynamics simulations were carried out using the NIS apo- and holo-structures (2 Na<sup>+</sup>/I<sup>-</sup>
+Molecular simulation of the  Na<sup>+</sup>/I<sup>-</sup> symporter (NIS) ions-bound form
+Molecular dynamics simulations were carried out using holo-structures (2 Na<sup>+</sup>/I<sup>-</sup>
 ) embedded in a pre-equilibrated 1,2-Dioleoyl-sn-glycero-3-phosphocholine
 (DOPC) bilayer. We obtained the parameters and scripts for the minimization, equilibration, and
 production in GROMACS using CHARMM-GUI14.  All simulations were carriedout with GROMACS, version 2020, 
