@@ -2,8 +2,8 @@ Molecular dynamics simulation of the  Na<sup>+</sup>/I<sup>-</sup> symporter (NI
 was carried out using the cryoEM structure (2 Na<sup>+</sup>/I<sup>-</sup>
 ) embedded in a pre-equilibrated 1,2-Dioleoyl-sn-glycero-3-phosphocholine
 (DOPC) bilayer. We obtained the parameters and scripts for the minimization, equilibration, and
-production in GROMACS using <a href=https://charmm-gui.org> CHARMM-GUI </a>.  The simulation was carried out with GROMACS, version 2020, 
-in conjunction with the CharMM36 force field, using a TIP3P water model, Berger-derived DOPC lipids, 
+production in <a href=https://www.gromacs.org/>GROMACS</a> using <a href=https://charmm-gui.org> CHARMM-GUI </a>.  The simulation was carried out with GROMACS, version 2020, 
+in conjunction with the <a href=https://onlinelibrary.wiley.com/doi/10.1002/jcc.23354>CharMM36 </a>force field, using a TIP3P water model, Berger-derived DOPC lipids, 
 and ion parameters by Joung and Cheatham. Van der Waals interactions were cut off at 1 nm, and electrostatics 
 were treated by PME beyond 1 nm. Temperature and pressure was kept at 310.5 K and 1 bar using the V-Rescale 
 thermostat and Parrinello-Rahman barostat, respectively. All bonds were restrained using LINCS, and an integration 
