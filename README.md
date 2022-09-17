@@ -1,6 +1,6 @@
 This repository contains the molecular dynamics simulation of the Na<sup>+</sup>/I<sup>-</sup> symporter (NIS)  ions-bound form described in <a href=https://doi.org/10.1101/2022.04.07.487502 > Ravera <ital>et al.</ital> (2022)</a>, and includes the MD trajectories
- of only protein atoms and ions sampled every 100 ps, the python 3.8 Jupyter notebook 
-and its auxiliary files used in the calculations reported. The MD  simulation 
+ of only protein atoms and ions sampled every 100 ps, the python 3.8 Jupyter notebook used in the calculations reported
+and its required auxiliary files. The MD  simulation 
 was carried out using the cryoEM structure (2 Na<sup>+</sup>/I<sup>-</sup>
 )-bound NIS embedded in a pre-equilibrated 1,2-Dioleoyl-sn-glycero-3-phosphocholine
 (DOPC) bilayer. We obtained the parameters and scripts for the minimization, equilibration, and
