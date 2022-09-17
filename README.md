@@ -1,4 +1,6 @@
-Molecular dynamics simulation of the Na<sup>+</sup>/I<sup>-</sup> symporter (NIS)  ions-bound form
+This repository contains the molecular dynamics simulation of the Na<sup>+</sup>/I<sup>-</sup> symporter (NIS)  ions-bound form described in <a href=https://doi.org/10.1101/2022.04.07.487502 > Ravera <ital>et al.</ital> 2022</a>, and includes the MD trajectories
+sampled every 100 ps (only protein atoms and ions), the python 3.8 Jupyter notebook 
+and its auxiliary files used in the calculations reported. The MD  simulation 
 was carried out using the cryoEM structure (2 Na<sup>+</sup>/I<sup>-</sup>
 )-bound NIS embedded in a pre-equilibrated 1,2-Dioleoyl-sn-glycero-3-phosphocholine
 (DOPC) bilayer. We obtained the parameters and scripts for the minimization, equilibration, and
@@ -13,7 +15,4 @@ and performed a six steps (125, 125, 125, 500, 500, and 500 ns) of position rest
 constant (Fc) with different values of Fc for backbone atoms (100000, 2000, 1000, 500, 200, and 50 kJ/mol/nm<sup>2</sup>), 
 side-chain atoms (2000, 2000, 1000, 500, 200, 50, and 0 kJ/mol/nm<sup>2</sup>), residue dihedrals (1000, 200, 200, 
 100, and kJ/mol/nm<sup>2</sup>), and lipids (1000, 400, 400, 200, 40, and 0 kJ/mol/nm<sup>2</sup>). Van der Waals parameters
-for I<sup>-</sup> were taken from <a href=https://pubs.acs.org/doi/pdf/10.1021/ct500918t>Li <it>et al.</it> 2015</a> This repository include the molecular dynamics trajectories
-sampled every 100 ps (only including protein atoms and ions), the python 3.8 Jupyter notebook 
-and its auxiliary files used in the calculations reported in "Structural Insigths into the mechanism of the 
-sodium/iodide symporter (NIS)"  by <a href=https://doi.org/10.1101/2022.04.07.487502 > Ravera <ital>et al.</ital> 2022</a>.
+for I<sup>-</sup> were taken from <a href=https://pubs.acs.org/doi/pdf/10.1021/ct500918t>Li <it>et al.</it> 2015</a>.
