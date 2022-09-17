@@ -1,6 +1,6 @@
 Molecular dynamics simulation of the Na<sup>+</sup>/I<sup>-</sup> symporter (NIS)  ions-bound form
 was carried out using the cryoEM structure (2 Na<sup>+</sup>/I<sup>-</sup>
-) embedded in a pre-equilibrated 1,2-Dioleoyl-sn-glycero-3-phosphocholine
+)-bound NIS embedded in a pre-equilibrated 1,2-Dioleoyl-sn-glycero-3-phosphocholine
 (DOPC) bilayer. We obtained the parameters and scripts for the minimization, equilibration, and
 production using the molecular dynamics program <a href=https://www.gromacs.org/>GROMACS</a> with the script generator web-page <a href=https://charmm-gui.org> CHARMM-GUI </a>. 
 The simulation was carried out with GROMACS, version 2020, 
